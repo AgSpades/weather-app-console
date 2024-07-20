@@ -1,0 +1,94 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+
+# ASP.NET
+wwwroot/
+*.db
+*.sqlite
+*.pdb
+*.suo
+*.user
+*.userosscache
+*.suo
+*.cache
+*.csproj.user
+*.vs/
+*.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Other IDEs
+*.ncb
+*.suo
+*.sdf
+*.cache
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.suo
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Azure
+.deploy/
+
+# JetBrains Rider
+.idea/
+
+# Windows Installer files
+*.msi
+*.msm
+*.msp
+
+# Test results
+TestResults/
+*.trx
+
+# Build results
+[Ll]og/
+*.log
+
+# IntelliJ
+*.iml
+
+# Node.js
+node_modules/
+
+# Log files
+*.log
